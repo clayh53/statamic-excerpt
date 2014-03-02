@@ -33,9 +33,15 @@ categories:
   - trivia
   - grammar
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro, maiores, doloribus, eius saepe cupiditate mollitia facere repellendus odio nihil aperiam enim fugiat ducimus hic.[->] Repellat, quam praesentium illo incidunt reprehenderit?
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+Porro, maiores, doloribus, eius saepe cupiditate mollitia 
+facere repellendus odio nihil aperiam enim fugiat ducimus 
+hic.[->] Repellat, quam praesentium illo incidunt reprehenderit?
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, ad, magni, rem, ullam assumenda fugiat quaerat laudantium error sit saepe dolore voluptatem soluta voluptas. Doloremque et harum corporis officia iste!
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+Quibusdam, ad, magni, rem, ullam assumenda fugiat quaerat 
+laudantium error sit saepe dolore voluptatem soluta voluptas. 
+Doloremque et harum corporis officia iste!
 ```
 And the content would be terminated right after 'ducimus hic.' whenever it is passed through the *excerpt* modifier.
 
